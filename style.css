@@ -28,6 +28,17 @@ header p {
   opacity: 0.9;
 }
 
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+
 section {
   padding: 3rem 10%;
   border-bottom: 1px solid #ddd;
@@ -90,6 +101,17 @@ footer a {
 
 footer a:hover {
   text-decoration: underline;
+}
+
+footer a i {
+  margin-right: 0.4rem;
+  color: #1abc9c;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+footer a:hover i {
+  color: #ffffff;
+  transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
