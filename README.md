@@ -7,7 +7,6 @@ Welcome to my personal portfolio site — built with HTML and CSS to showcase my
 - 🌀 **Virtual Reality** – FloodSense VR: A Unity-based flood preparedness simulation using Google VR.
 - 📊 **Business Intelligence** – Customer churn and heart disease prediction using Python (Logistic Regression, SVM, Random Forest).
 - 🎬 **3D Modeling & Animation** – Mixamo & Blender demo animation of a cityscape environment.
-- 📸 **Photography** – Visual storytelling through curated personal works.
 
 ## 📫 Contact Me
 
